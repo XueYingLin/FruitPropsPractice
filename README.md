@@ -1,2 +1,0 @@
-# FruitPropsPractice
-Created with CodeSandbox
